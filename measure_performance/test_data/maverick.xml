@@ -1,1 +1,8 @@
-<AddressCollection/>
+<AddressCollection>
+  <AddressString><AddressNumber>31</AddressNumber> <StreetName>east</StreetName> <StreetName>street</StreetName> <PlaceName>queens</PlaceName> <StateName>ny</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>733</AddressNumber> <StreetName>yonkers</StreetName> <StreetName>avenue</StreetName> <PlaceName>yonkers</PlaceName> <StateName>ny</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>320</AddressNumber> <StreetName>route</StreetName> <StreetName>34</StreetName> <PlaceName>colts</PlaceName> <PlaceName>neck</PlaceName> <NotAddress>township</NotAddress> <StateName>nj</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>51-17</AddressNumber> <StreetName>z</StreetName> <StreetName>avenue</StreetName> <PlaceName>brooklyn</PlaceName> <StateName>ny</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>317</AddressNumber> <StreetName>state</StreetName> <StreetName>highway</StreetName> <StreetName>34</StreetName> <PlaceName>colts</PlaceName> <PlaceName>neck</PlaceName> <NotAddress>township</NotAddress> <StateName>nj</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>300</AddressNumber> <StreetName>rt.</StreetName> <StreetName>34</StreetName> <PlaceName>colts</PlaceName> <PlaceName>neck</PlaceName> <NotAddress>township</NotAddress> <StateName>nj</StateName> <CountryName>usa</CountryName></AddressString>
+</AddressCollection>

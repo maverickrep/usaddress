@@ -59,6 +59,19 @@ def test_us50(address_text, components):
     fuzzyEquals(labels_pred, labels_true)
 
 
+@pytest.mark.parametrize(
+    "address_text,components",
+    readTrainingData(
+        ["measure_performance/test_data/maverick.xml"], GROUP_LABEL
+    ),
+)
+def test_maverick(address_text, components):
+
+    _, labels_true = list(zip(*components))
+    _, labels_pred = list(zip(*parse(address_text)))
+    fuzzyEquals(labels_pred, labels_true)
+
+
 def fuzzyEquals(labels_pred, labels_true):
     labels = []
     fuzzy_labels = []
