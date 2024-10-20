@@ -1,0 +1,176 @@
+<AddressCollection>
+  <AddressString><AddressNumber>25</AddressNumber>
+    <StreetName>renwick</StreetName>
+    <StreetNamePostType>ave</StreetNamePostType>
+    <PlaceName>staten</PlaceName>
+    <PlaceName>island</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>1129</AddressNumber>
+    <StreetName>55</StreetName>
+    <StreetNamePostType>street</StreetNamePostType>
+    <PlaceName>brooklyn</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>41</AddressNumber>
+    <StreetName>flagg</StreetName>
+    <StreetNamePostType>pl</StreetNamePostType>
+    <PlaceName>staten</PlaceName>
+    <PlaceName>island</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>212</AddressNumber>
+    <StreetNamePreDirectional>e</StreetNamePreDirectional>
+    <StreetName>167</StreetName>
+    <StreetNamePostType>street</StreetNamePostType>
+    <PlaceName>bronx</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>6472</AddressNumber>
+    <StreetNamePreDirectional>n</StreetNamePreDirectional>
+    <StreetName>ceylon</StreetName>
+    <StreetNamePostType>street</StreetNamePostType>
+    <PlaceName>denver</PlaceName>
+    <StateName>co</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>62</AddressNumber>
+    <StreetName>princeton</StreetName>
+    <StreetNamePostType>ave</StreetNamePostType>
+    <PlaceName>staten</PlaceName>
+    <PlaceName>island</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>59-24</AddressNumber>
+    <StreetName>175</StreetName>
+    <StreetNamePostType>street</StreetNamePostType>
+    <PlaceName>fresh</PlaceName>
+    <PlaceName>meadows</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>41-20</AddressNumber>
+    <StreetName>66</StreetName>
+    <StreetNamePostType>street</StreetNamePostType>
+    <PlaceName>woodside</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>282</AddressNumber>
+    <StreetName>ridgewood</StreetName>
+    <StreetNamePostType>ave</StreetNamePostType>
+    <PlaceName>brooklyn</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>203</AddressNumber>
+    <StreetNamePreDirectional>w</StreetNamePreDirectional>
+    <StreetName>38</StreetName>
+    <StreetNamePostType>street</StreetNamePostType>
+    <PlaceName>ny</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>130-28</AddressNumber>
+    <StreetName>inwood</StreetName>
+    <StreetNamePostType>street</StreetNamePostType>
+    <StreetNamePostDirectional>s</StreetNamePostDirectional>
+    <PlaceName>ozone</PlaceName>
+    <PlaceName>pk</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>2216</AddressNumber>
+    <StreetName>homecrest</StreetName>
+    <StreetNamePostType>ave</StreetNamePostType>
+    <PlaceName>brooklyn</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>4504</AddressNumber>
+    <StreetName>foster</StreetName>
+    <StreetNamePostType>ave</StreetNamePostType>
+    <PlaceName>brooklyn</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>82-19</AddressNumber>
+    <StreetName>beverly</StreetName>
+    <StreetNamePostType>rd</StreetNamePostType>
+    <PlaceName>kew</PlaceName>
+    <PlaceName>gardens</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>95-30</AddressNumber>
+    <StreetName>109</StreetName>
+    <StreetNamePostType>street</StreetNamePostType>
+    <PlaceName>richmond</PlaceName>
+    <PlaceName>hill</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>215-31</AddressNumber>
+    <StreetName>111</StreetName>
+    <StreetNamePostType>rd</StreetNamePostType>
+    <PlaceName>queens</PlaceName>
+    <PlaceName>village</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>46-12</AddressNumber>
+    <StreetName>190</StreetName>
+    <StreetNamePostType>street</StreetNamePostType>
+    <PlaceName>flushing</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>2516</AddressNumber>
+    <StreetName>beverley</StreetName>
+    <StreetNamePostType>rd</StreetNamePostType>
+    <PlaceName>brooklyn</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>402</AddressNumber>
+    <StreetName>vanderbilt</StreetName>
+    <StreetNamePostType>ave</StreetNamePostType>
+    <PlaceName>brooklyn</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>1158</AddressNumber>
+    <StreetNamePreDirectional>e</StreetNamePreDirectional>
+    <StreetName>215</StreetName>
+    <StreetNamePostType>street</StreetNamePostType>
+    <PlaceName>bronx</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><AddressNumber>36-01</AddressNumber>
+    <StreetName>43</StreetName>
+    <StreetNamePostType>ave</StreetNamePostType>
+    <PlaceName>sunnyside</PlaceName>
+    <StateName>ny</StateName>
+    <CountryName>usa</CountryName>
+  </AddressString>
+  <AddressString><Recipient>benjosh</Recipient> <Recipient>management</Recipient> <Recipient>assoc</Recipient> <AddressNumber>287</AddressNumber> <StreetNamePreType>avenue</StreetNamePreType> <StreetName>x</StreetName> <PlaceName>bklyn</PlaceName> <StateName>ny</StateName> <CountryName>us</CountryName></AddressString>
+  <AddressString><AddressNumber>41</AddressNumber> <StreetName>weavers</StreetName> <StreetName>hill</StreetName> <PlaceName>mount</PlaceName> <PlaceName>kisco</PlaceName> <StateName>ny</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>07722</AddressNumber> <PlaceName>colts</PlaceName> <PlaceName>neck</PlaceName> <NotAddress>township</NotAddress> <StateName>nj</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>21</AddressNumber> <StreetName>yearling</StreetName> <StreetNamePostType>path</StreetNamePostType> <PlaceName>colts</PlaceName> <PlaceName>neck</PlaceName> <NotAddress>township</NotAddress> <StateName>nj</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>1</AddressNumber> <StreetName>queens</StreetName> <StreetNamePostType>pass</StreetNamePostType> <PlaceName>colts</PlaceName> <PlaceName>neck</PlaceName> <NotAddress>township</NotAddress> <StateName>nj</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>10</AddressNumber> <StreetName>duke</StreetName> <StreetNamePostType>pass</StreetNamePostType> <PlaceName>colts</PlaceName> <PlaceName>neck</PlaceName> <NotAddress>township</NotAddress> <StateName>nj</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>201</AddressNumber> <StreetName>willow</StreetName> <StreetName>turn</StreetName> <PlaceName>mount</PlaceName> <PlaceName>laurel</PlaceName> <StateName>nj</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>1478</AddressNumber> <StreetNamePreDirectional>n</StreetNamePreDirectional> <StreetNamePreType>hwy</StreetNamePreType> <StreetName>17</StreetName> <PlaceName>mount</PlaceName> <PlaceName>pleasant</PlaceName> <StateName>sc</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>125</AddressNumber> <StreetNamePreType>county</StreetNamePreType> <StreetNamePreType>route</StreetNamePreType> <StreetName>537</StreetName> <StreetNamePostDirectional>east</StreetNamePostDirectional> <PlaceName>colts</PlaceName> <PlaceName>neck</PlaceName> <NotAddress>township</NotAddress> <StateName>nj</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>27</AddressNumber> <StreetNamePreType>ave</StreetNamePreType> <StreetName>a</StreetName> <PlaceName>mount</PlaceName> <PlaceName>kisco</PlaceName> <StateName>ny</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>28</AddressNumber> <StreetName>parker</StreetName> <StreetName>pass</StreetName> <PlaceName>colts</PlaceName> <PlaceName>neck</PlaceName> <NotAddress>township</NotAddress> <StateName>nj</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>265</AddressNumber> <StreetNamePreType>rt.</StreetNamePreType> <StreetName>34</StreetName> <PlaceName>colts</PlaceName> <PlaceName>neck</PlaceName> <NotAddress>township</NotAddress> <StateName>nj</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>14</AddressNumber> <StreetName>quail</StreetName> <StreetName>path</StreetName> <PlaceName>glen</PlaceName> <PlaceName>head</PlaceName> <StateName>ny</StateName> <CountryName>usa</CountryName></AddressString>
+  <AddressString><AddressNumber>1725</AddressNumber> <StreetName>duke</StreetName> <StreetNamePostType>avenue</StreetNamePostType> <PlaceName>glen</PlaceName> <PlaceName>head</PlaceName> <StateName>ny</StateName> <CountryName>usa</CountryName></AddressString>
+</AddressCollection>
